@@ -1,1 +1,1 @@
-# Shining Trapezohedron
+# Shining Trapezohedron's Github Config
